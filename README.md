@@ -41,8 +41,10 @@ O estudo visa:
 **Fontes de Dados**
 * Dados sobre acidentes de trânsito no Brasil:
   * SENATRAN - RENAEST
-  * ANAMT - Estatísticas sobre acidentes
-* Informações sobre tendências tecnológicas:
+  [Acidentes de Trânsito no Brasil](https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/docs/renaest)
+  * Refeita Federal
+  [Empresas consultável por CNPJ](https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-02/)
+* Informações sobre tendências tecnológicas e sobre o produto:
   * Telit Cinterion
   * Histórico da Telit Cinterion
 
@@ -86,12 +88,15 @@ pip install -r requirements.txt
 Execute os notebooks na pasta notebooks/ para reproduzir as análises.
 
 ## Cronograma do Projeto
-| Atividade |	Data de Conclusão |	Responsável |
-|-----------|-------------------|-------------|
-| Coleta e organização dos dados |   |   |
-| Limpeza e preparação dos dados |   |   |
-| Análise exploratória |   |   |
-| Relatório final |   |   |
+| Atividade |	Data de Conclusão |
+|-----------|-------------------|
+| Artigo Acadêmico | 03/03/2025 |
+| Estabelecimento do repositório | 10/02/2025 |
+| Coleta de dados | 12/03/2028 |
+| Preparação dos dados | 24/03/2025 |
+| Análise exploratória | 30/03/2025 |
+| Apresentação em vídeo | 22/04/2025 |
+| Relatório final | 03/03/2025 |
 
 ## Equipe
 Este projeto foi desenvolvido como parte da disciplina "Projeto Aplicado I" do curso "Tecnologia em Banco de Dados: Análise, Mineração e Engenharia de Dados" da Universidade Presbiteriana Mackenzie.
@@ -99,6 +104,8 @@ Este projeto foi desenvolvido como parte da disciplina "Projeto Aplicado I" do c
 **Integrantes:**
 * Felipe Neres Silva Bezerra
 * Guilherme da Silva Brevilato
+* Isabela Sinoduka
+* Pedro Freitas
 * Ricardo de Oliveira Vieira Franco
 
 **Docente Orientador:**
