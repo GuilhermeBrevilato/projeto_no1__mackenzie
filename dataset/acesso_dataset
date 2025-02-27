@@ -1,78 +1,66 @@
+
+
 1. Entidade: Empresa
 Atributos:
-CNPJ Básico
-Razão Social / Nome Empresarial
-Natureza Jurídica
-Qualificação do Responsável
-Capital Social da Empresa
-Porte da Empresa
-Ente Federativo Responsável
+  - CNPJ Básico
+  - Razão Social / Nome Empresarial
+  - Natureza Jurídica
+  - Qualificação do Responsável
+  - Capital Social da Empresa
+  - Porte da Empresa
+  - Ente Federativo Responsável
 
-<br/>
 2. Entidade: Estabelecimento
 Atributos:
-CNPJ Básico
-CNPJ Ordem
-CNPJ DV
-Identificador Matriz/Filial
-Nome Fantasia
-Situação Cadastral
-Data Situação Cadastral
-Motivo Situação Cadastral
-Data de Início da Atividade
-CNAE Fiscal Principal
-CNAE Fiscal Secundário
-Endereço (Tipo de Logradouro, Logradouro, Número, Complemento, Bairro, CEP, UF, Município)
-Contato (DDD, Telefone, Fax, E-mail)
-Situação Especial
-Data de Situação Especial
+  - CNPJ Básico
+  - CNPJ Ordem
+  - CNPJ DV
+  - Identificador Matriz/Filial
+  - Nome Fantasia
+  - Situação Cadastral
+  - Data Situação Cadastral
+  - Motivo Situação Cadastral
+  - Data de Início da Atividade
+  - CNAE Fiscal Principal
+  - CNAE Fiscal Secundário
+  - Endereço (Tipo de Logradouro, Logradouro, Número, Complemento, Bairro, CEP, UF, Município)
+  - Contato (DDD, Telefone, Fax, E-mail)
+  - Situação Especial
+  - Data de Situação Especial
+
 3. Entidade: Sócio
 Atributos:
-CNPJ Básico
-Identificador de Sócio
-Nome do Sócio
-CNPJ/CPF do Sócio
-Qualificação do Sócio
-Data de Entrada na Sociedade
-País do Sócio (se estrangeiro)
-Representante Legal (Nome, CPF, Qualificação)
-Faixa Etária
+  - CNPJ Básico
+  - Identificador de Sócio
+  - Nome do Sócio
+  - CNPJ/CPF do Sócio
+  - Qualificação do Sócio
+  - Data de Entrada na Sociedade
+  - País do Sócio (se estrangeiro)
+  - Representante Legal (Nome, CPF, Qualificação)
+  - Faixa Etária
+
 4. Entidade: País
 Atributos:
-Código do País
-Descrição (Nome do País)
+  - Código do País
+  - Descrição (Nome do País)
+
 5. Entidade: Município
 Atributos:
-Código do Município
-Descrição (Nome do Município)
+  - Código do Município
+  - Descrição (Nome do Município)
+
 6. Entidade: Qualificação de Sócio
 Atributos:
-Código da Qualificação do Sócio
-Descrição (Nome da Qualificação)
+  - Código da Qualificação do Sócio
+  - Descrição (Nome da Qualificação)
+
 7. Entidade: Natureza Jurídica
 Atributos:
-Código da Natureza Jurídica
-Descrição (Nome da Natureza Jurídica)
+  - Código da Natureza Jurídica
+  - Descrição (Nome da Natureza Jurídica)
+
 8. Entidade: CNAE
 Atributos:
-Código da Atividade Econômica
-Descrição (Nome da Atividade Econômica)
-Relacionamentos:
-Empresa - Estabelecimento:
-
-Uma empresa pode ter múltiplos estabelecimentos (Relacionamento 1:N).
-Estabelecimento - Sócio:
-
-Um estabelecimento pode ter vários sócios (Relacionamento N:M), considerando as diferentes naturezas de sociedade e a possibilidade de múltiplos sócios e representantes legais.
-Sócio - Qualificação de Sócio:
-
-Cada sócio tem uma qualificação específica, representando um relacionamento N:1 entre Sócio e Qualificação de Sócio.
-Sócio - País:
-
-Um sócio pode ser de um país estrangeiro, criando um relacionamento N:1 entre Sócio e País.
-Estabelecimento - CNAE:
-
-Um estabelecimento pode ter múltiplos CNAEs (Relacionamento N:M).
-Estabelecimento - Município:
-
-O estabelecimento está associado a um município (Relacionamento N:1).
+  - Código da Atividade Econômica
+  - Descrição (Nome da Atividade Econômica)
