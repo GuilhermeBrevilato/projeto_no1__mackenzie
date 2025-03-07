@@ -25,7 +25,6 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 ├── ├── Notebooks             # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
 ├── reports/                  # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações 
 │   ├── figures/              # Gráficos e visualizações geradas
-├── tests/                    # Scripts de testes para validação de funcionalidades (se aplicável)
 ├── README.md                 # Arquivo explicativo do projeto (este documento)
 ├── requirements.txt          # Dependências necessárias para replicar o projeto
 └── LICENSE                   # Licença do projeto
