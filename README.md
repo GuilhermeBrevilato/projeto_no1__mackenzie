@@ -21,10 +21,11 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 ├── ├── arquivo.txt           # Instruções sobre como acessar ao repositório dos dados utilizados
 ├── ├── arquivo.txt           # Modelo Conceitual da estrutura dos dados
 ├── processamento/            # Local para armazenar os códigos utilizados em cada etapa do projeto
-├── ├── notebooks             # Notebooks Jupyter com análises pertinentes ao projeto
+├── ├── Notebooks             # Notebooks Jupyter com análises pertinentes ao projeto
 ├── ├── Notebooks             # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
 ├── reports/                  # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações 
 │   ├── figures/              # Gráficos e visualizações geradas
+├── tests/                    # Scripts de testes para validação de funcionalidades (se aplicável)
 ├── README.md                 # Arquivo explicativo do projeto (este documento)
 ├── requirements.txt          # Dependências necessárias para replicar o projeto
 └── LICENSE                   # Licença do projeto
