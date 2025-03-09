@@ -100,7 +100,7 @@ Execute os notebooks na pasta notebooks/ para reproduzir as análises.
 | Relatório final | 03/03/2025 |
 
 ## Equipe
-Este projeto foi desenvolvido como parte da disciplina "Projeto Aplicado I" do curso "Tecnologia em Banco de Dados: Análise, Mineração e Engenharia de Dados" da Universidade Presbiteriana Mackenzie.
+Este projeto foi desenvolvido como parte da disciplina "Projeto Aplicado I" do curso "Tecnologia em Ciência de Dados: Análise, Mineração e Engenharia de Dados" da Universidade Presbiteriana Mackenzie.
 
 **Integrantes:**
 * Felipe Neres Silva Bezerra
