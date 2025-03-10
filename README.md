@@ -26,8 +26,9 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 ├── ├── Notebooks_python      # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
 ├── reports/                  # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações
 ├── ├── about.txt             # Instruções sobre o repositório de relatórios
+├── LICENSE                   # Licença do projeto
 ├── README.md                 # Arquivo explicativo do projeto (este documento)
-└── LICENSE                   # Licença do projeto
+
 ```
 
 ## Objetivos
