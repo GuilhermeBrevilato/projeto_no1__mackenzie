@@ -27,7 +27,6 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 ├── reports/                  # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações
 ├── ├── about.txt             # Instruções sobre o repositório de relatórios
 ├── README.md                 # Arquivo explicativo do projeto (este documento)
-├── requirements.txt          # Dependências necessárias para replicar o projeto
 └── LICENSE                   # Licença do projeto
 ```
 
