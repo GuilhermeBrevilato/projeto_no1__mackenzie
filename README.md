@@ -16,12 +16,12 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 
 ```
 ├── config/                   # Descritivo das Configurações utilizadas aos softwares utilizados no projeto, caso houver
-│   ├── arquivo.txt/          # Detalhamento das configurações utilizadas
+│   ├── about.txt             # Detalhamento das configurações utilizadas
 ├── dataset/                  # Notebooks Jupyter com análises pertinentes ao projeto
-├── ├── arquivo.txt           # Instruções sobre como acessar ao repositório dos dados utilizados
-├── ├── arquivo.txt           # Modelo Conceitual da estrutura dos dados
+├── ├── about.txt             # Instruções sobre como acessar ao repositório dos dados utilizados
+├── ├── estrutura_dataset.txt # Modelo Conceitual da estrutura dos dados
 ├── processamento/            # Local para armazenar os códigos utilizados em cada etapa do projeto
-├── ├── Notebooks             # Notebooks Jupyter com análises pertinentes ao projeto
+├── ├── about.txt             # Notebooks Jupyter com análises pertinentes ao projeto
 ├── ├── Notebooks             # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
 ├── reports/                  # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações 
 │   ├── figures/              # Gráficos e visualizações geradas
