@@ -23,7 +23,7 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 ├── processamento/            # Local para armazenar os códigos utilizados em cada etapa do projeto
 ├── ├── about.txt             # Instruções sobre o repositório de processamento
 ├── ├── Notebooks_sql         # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
-├── ├── Notebooks_python      # Notebooks Jupyter com análises pertinentes ao projeto
+├── ├── Notebooks_python      # Notebooks Jupyter na liguagem python com análises pertinentes ao projeto
 ├── reports/                  # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações
 ├── ├── about.txt             # Instruções sobre o repositório de relatórios
 ├── LICENSE                   # Licença do projeto
