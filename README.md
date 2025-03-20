@@ -15,19 +15,21 @@ A análise será conduzida com base em dados de acidentes de trânsito, informa�
 A organização dos arquivos no repositório segue a seguinte estrutura:
 
 ```
-├── config/                   # Descritivo das Configurações utilizadas aos softwares utilizados no projeto, caso houver
-│── ├── about.txt             # Detalhamento das configurações utilizadas
-├── dataset/                  # Notebooks Jupyter com análises pertinentes ao projeto
-├── ├── about.txt             # Instruções sobre como acessar ao repositório dos dados utilizados
-├── ├── estrutura_dataset.txt # Modelo Conceitual da estrutura dos dados
-├── processamento/            # Local para armazenar os códigos utilizados em cada etapa do projeto
-├── ├── about.txt             # Instruções sobre o repositório de processamento
-├── ├── Notebooks_sql         # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
-├── ├── Notebooks_python      # Notebooks Jupyter na liguagem python com análises pertinentes ao projeto
-├── reports/                  # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações
-├── ├── about.txt             # Instruções sobre o repositório de relatórios
-├── LICENSE                   # Licença do projeto
-├── README.md                 # Arquivo explicativo do projeto (este documento)
+├── config/                            # Descritivo das Configurações utilizadas aos softwares utilizados no projeto, caso houver
+│── ├── about.txt                      # Detalhamento das configurações utilizadas
+├── dataset/                           # Notebooks Jupyter com análises pertinentes ao projeto
+├── ├── about.txt                      # Instruções sobre como acessar ao repositório dos dados utilizados
+├── ├── estrutura_dataset.txt          # Modelo Conceitual da estrutura dos dados
+├── processamento/                     # Local para armazenar os códigos utilizados em cada etapa do projeto
+├── ├── about.txt                      # Instruções sobre o repositório de processamento
+├── ├── Notebooks_sql                  # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
+├── ├── Notebooks_python               # Notebooks Jupyter na liguagem python com análises pertinentes ao projeto
+├── ├── mapping_application.ipynb      # Notebooks contendo código python aplicando dicionário de termos no dataset
+├── reports/                           # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações
+├── ├── estatistica_descritiva.ipynb   # Notebooks contendo código python descrevendo e demonstrando os dados considerados significativos
+├── ├── about.txt                      # Instruções sobre o repositório de relatórios
+├── LICENSE                            # Licença do projeto
+├── README.md                          # Arquivo explicativo do projeto (este documento)
 
 ```
 
