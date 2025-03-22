@@ -20,6 +20,8 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 ├── dataset/                           # Notebooks Jupyter com análises pertinentes ao projeto
 ├── ├── about.txt                      # Instruções sobre como acessar ao repositório dos dados utilizados
 ├── ├── estrutura_dataset.txt          # Modelo Conceitual da estrutura dos dados
+├── ├── ativos_filtrados_mapeados.csv  # Modelo Conceitual da estrutura dos dados
+├── ├── ativos_filtrados_por_cnae.csv  # Modelo Conceitual da estrutura dos dados
 ├── processamento/                     # Local para armazenar os códigos utilizados em cada etapa do projeto
 ├── ├── about.txt                      # Instruções sobre o repositório de processamento
 ├── ├── Notebooks_sql                  # Arquivo com os códigos SQL destinados a etapa de estruturação dos dados
