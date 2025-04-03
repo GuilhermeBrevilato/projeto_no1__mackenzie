@@ -3,10 +3,10 @@
 Este projeto tem como objetivo analisar a viabilidade mercadológica de uma solução inovadora de rastreamento veicular baseada em IoT (Internet das Coisas) e inteligência artificial. A proposta busca aumentar a segurança no trânsito, reduzir custos operacionais e minimizar o impacto ambiental dos veículos automotores.
 
 O foco principal é responder às seguintes questões:
-* Existe demanda para o produto?
-* Quem é o público-alvo?
-* Quais são as tendências do mercado?
-* Como a solução se diferencia da concorrência?
+* Qual é o tamanho do mercado para o produto?  
+* Há demanda para o produto?  
+* Qual é o público-alvo?  
+* Quais são as características da área onde o produto será comercializado?  
 
 A análise será conduzida com base em dados de acidentes de trânsito, informações sobre o mercado automotivo e tendências tecnológicas, utilizando técnicas de ciência de dados.
 
