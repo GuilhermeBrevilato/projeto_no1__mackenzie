@@ -43,13 +43,10 @@ O estudo visa:
 
 **Fontes de Dados**
 * Dados sobre acidentes de trânsito no Brasil:
-  * SENATRAN - RENAEST
-  [Acidentes de Trânsito no Brasil](https://www.gov.br/transportes/pt-br/assuntos/transito/arquivos-senatran/docs/renaest)
   * Refeita Federal
   [Empresas consultável por CNPJ](https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-02/)
 * Informações sobre tendências tecnológicas e sobre o produto:
   * Telit Cinterion
-  * Histórico da Telit Cinterion
 
 **Metadados**
 * Período de coleta: Dados mais recentes disponíveis até fevereiro de 2025.
@@ -62,12 +59,11 @@ O estudo visa:
 
 ## Tecnologias Utilizadas
 O projeto faz uso das seguintes ferramentas:
-* Linguagem: Python (versão >= 3.8)
+* Linguagem: Python (versão >= 3.10.9)
 * Bibliotecas principais:
   * Pandas (manipulação de dados)
   * Matplotlib e Seaborn (visualização)
   * Scikit-learn (análise estatística e aprendizado de máquina)
-  * Jupyter Notebook (documentação e análise interativa)
 
 Para instalar as dependências, execute:
 
@@ -82,7 +78,7 @@ git clone https://github.com/seu-repositorio/rastreamento-veicular.git
 ```
 2. Navegue até a pasta do projeto:
 ```
-cd rastreamento-veicular
+cd projeto_no1__mackenzie
 ```
 Instale as dependências listadas no arquivo requirements.txt:
 ```
