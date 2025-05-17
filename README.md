@@ -26,7 +26,8 @@ A organização dos arquivos no repositório segue a seguinte estrutura:
 ├── ├── mapping_application.ipynb              # Notebooks contendo código python aplicando dicionário de termos no dataset
 ├── reports/                                   # Local para armazenar os modelos de Relatórios (Estático e Dinâmico) e apresentações
 ├── ├── about.txt                              # Instruções sobre o repositório de relatórios
-├── ├── estatistica_descritiva_receita.ipynb   # Notebooks contendo código python demonstrando e descrevendo os dados
+├── ├── estatistica_descritiva_receita.ipynb   # Notebook contendo código python demonstrando e descrevendo os dados
+├── ├── medida_de_afinidade.ipynb              # Notebook com cálculo e demonstração da medida de afinidade de possíveis clientes
 ├── LICENSE                                    # Licença do projeto
 ├── README.md                                  # Arquivo explicativo do projeto (este documento)
 
