@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-[Youtube](o video: https://www.youtube.com/watch?v=YZUwGwDhhmA)
+[Youtube](https://www.youtube.com/watch?v=YZUwGwDhhmA)
 
 ## Descrição do Projeto
 Este projeto tem como objetivo analisar a viabilidade mercadológica de uma solução inovadora de rastreamento veicular baseada em IoT (Internet das Coisas) e inteligência artificial. A proposta busca aumentar a segurança no trânsito, reduzir custos operacionais e minimizar o impacto ambiental dos veículos automotores.
